@@ -1,0 +1,6 @@
+[0614/022054.331:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane.  (0xc0000022)
+[0614/022054.353:ERROR:exception_snapshot_win.cc(87)] thread ID 4264 not found in process
+[0614/022054.353:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0614/023249.838:ERROR:process_reader_win.cc(114)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane.  (0xc0000022)
+[0614/023249.839:ERROR:exception_snapshot_win.cc(87)] thread ID 6644 not found in process
+[0614/023249.839:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
