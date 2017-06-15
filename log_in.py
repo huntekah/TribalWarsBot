@@ -59,14 +59,25 @@ def build(building_id, time, username, password):
     try:
         driver.find_element_by_xpath("//a[@class='popup_box_close']").click()
         driver.find_element_by_xpath("//button[@class='evt-confirm-btn]").click()
+        print("closing campaign popup")
     except:
-        print("no campaign popup to click")
+        pass
+    try:
+        driver.find_element_by_xpath("//a[@class='btn btn-confirm-yes']").click()
+        print("closing quest popup")
+    except:
+        pass
+    try:
+        driver.find_element_by_xpath("//a[@class='chat-button-close']").click()
+        print("closing chat")
+    except:
+        pass
     try:
         string_xpath = "//table[@id='buildings']//tr[@id='{0}']//a[@class='btn btn-build']".format(building_id)
         driver.find_element_by_xpath(string_xpath).click()
+        print("building {0}".format(building_id))
     except:
         print(sys.exc_info())
-        print("no visible button aviable")
     finally:
         driver.implicitly_wait(random.randint(1, 3))
         driver.close()
@@ -78,17 +89,24 @@ def load_queue():
 if __name__ == "__main__":
     t = datetime.datetime.today()
     # delta = datetime.timedelta(minutes=7, seconds=1)
-    future = datetime.datetime(t.year, t.month, t.day + 1, 4, 20, 00)
+    future = datetime.datetime(t.year, t.month, t.day, 11, 44, 16)
     alert_every_n_seconds(future, 150)
     t = datetime.datetime.today()
     print("I have woken up!\n its", t, "already!")
-    driver = login("", "")
+    driver = login("MałyPenis", "huntekah1")
     try:
         driver.find_element_by_xpath("//a[@class='popup_box_close']").click()
+        driver.find_element_by_xpath("//button[@class='evt-confirm-btn]").click()
+        print("closing campaign popup")
     except:
-        print("no campaign popup to click")
+        pass
+    try:
+        driver.find_element_by_xpath("//a[@class='chat-button-close']").click()
+        print("closing chat")
+    except:
+        pass
     driver.find_element_by_xpath(
-        "//table[@id='buildings']//tr[@id='main_buildrow_main']//a[@class='btn btn-build']").click()
+        "//table[@id='buildings']//tr[@id='main_buildrow_smith']//a[@class='btn btn-build']").click()
 
 # //table[@id='buildings']//tr[@id='main_buildrow_iron']//a[@class='btn btn-build']
 

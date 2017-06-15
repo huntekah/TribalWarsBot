@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ba54be-f297-42a7-b158-a7d157fd8982" name="Default" comment="" />
+    <list default="true" id="66ba54be-f297-42a7-b158-a7d157fd8982" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/builder_advanced.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/village_info.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/MSVCR100.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/VCRUNTIME140.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_bz2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_ctypes.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_hashlib.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_lzma.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_socket.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/_ssl.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/base_library.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/build_by_list.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/build_by_list.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/build_list.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/pyexpat.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/python35.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/pywintypes35.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/select.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/selenium/webdriver/firefox/webdriver.xpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/selenium/webdriver/firefox/webdriver_prefs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/selenium/webdriver/remote/getAttribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/selenium/webdriver/remote/isDisplayed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/unicodedata.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/build_by_list/win32wnet.pyd" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/base_library.zip" afterPath="$PROJECT_DIR$/build/build_by_list/base_library.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/build_by_list.exe" afterPath="$PROJECT_DIR$/build/build_by_list/build_by_list.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-PKG.pkg" afterPath="$PROJECT_DIR$/build/build_by_list/out00-PKG.pkg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-PYZ.pyz" afterPath="$PROJECT_DIR$/build/build_by_list/out00-PYZ.pyz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/build_by_list.exe.manifest" afterPath="$PROJECT_DIR$/build/build_by_list/build_by_list.exe.manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-Analysis.toc" afterPath="$PROJECT_DIR$/build/build_by_list/out00-Analysis.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-COLLECT.toc" afterPath="$PROJECT_DIR$/build/build_by_list/out00-COLLECT.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-EXE.toc" afterPath="$PROJECT_DIR$/build/build_by_list/out00-EXE.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/out00-PYZ.toc" afterPath="$PROJECT_DIR$/build/build_by_list/out00-PYZ.toc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/build_by_list/warnbuild_by_list.txt" afterPath="$PROJECT_DIR$/build/build_by_list/warnbuild_by_list.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build_list.txt" afterPath="$PROJECT_DIR$/build_list.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log_in.py" afterPath="$PROJECT_DIR$/log_in.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources_calc.py" afterPath="$PROJECT_DIR$/resources_calc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
     <ignored path="TribalWarsBot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +63,8 @@
       <file leaf-file-name="log_in.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log_in.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="e#42#56#0" expanded="true" />
               </folding>
@@ -35,7 +75,7 @@
       <file leaf-file-name="building_queue.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/building_queue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="408">
               <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding />
             </state>
@@ -45,18 +85,20 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build_by_list.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build_by_list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build_by_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="-83">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="15" />
               <folding>
                 <element signature="e#42#81#0" expanded="true" />
               </folding>
@@ -77,10 +119,36 @@
       <file leaf-file-name="resources_calc.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources_calc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="117" column="36" selection-start-line="115" selection-start-column="8" selection-end-line="117" selection-end-column="36" />
+            <state relative-caret-position="136">
+              <caret line="80" column="92" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builder_advanced.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/builder_advanced.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="e#42#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="village_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/village_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
+              <folding>
+                <element signature="e#42#51#0" expanded="true" />
+                <element signature="e#8088#8547#0" expanded="false" />
+                <element signature="e#8568#10818#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -95,22 +163,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/resources_calc.py" />
         <option value="$PROJECT_DIR$/building_queue.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/log_in.py" />
         <option value="$PROJECT_DIR$/build_by_list.py" />
+        <option value="$PROJECT_DIR$/log_in.py" />
+        <option value="$PROJECT_DIR$/resources_calc.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/village_info.py" />
+        <option value="$PROJECT_DIR$/builder_advanced.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
-    <option name="y" value="470" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -138,7 +211,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,13 +263,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.builder_advanced">
     <configuration default="false" name="log_in" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,23 +284,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TribalWarsBot" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_in.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="resources_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="TribalWarsBot" />
-      <option name="SCRIPT_NAME" value="E:\GIT_repos\TribalWarsBot\resources_calc_hand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -279,6 +335,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TribalWarsBot" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build_by_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="builder_advanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TribalWarsBot" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/builder_advanced.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -419,18 +492,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.log_in" />
-      <item index="1" class="java.lang.String" itemvalue="Python.resources_calc" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.resources_calc (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.build_by_list" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.resources_calc (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.build_by_list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.builder_advanced" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.build_by_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.log_in" />
-        <item index="3" class="java.lang.String" itemvalue="Python.resources_calc (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.resources_calc" />
+        <item index="0" class="java.lang.String" itemvalue="Python.builder_advanced" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.build_by_list" />
+        <item index="3" class="java.lang.String" itemvalue="Python.log_in" />
+        <item index="4" class="java.lang.String" itemvalue="Python.resources_calc (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -448,15 +521,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="470" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14494875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.103125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41167194" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41120508" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -488,6 +561,62 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/log_in.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_by_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources_calc_hand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="117" column="36" selection-start-line="115" selection-start-column="8" selection-end-line="117" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_in.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding>
@@ -500,7 +629,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -620,28 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="117" column="36" selection-start-line="115" selection-start-column="8" selection-end-line="117" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/datetime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3332">
           <caret line="1310" column="6" selection-start-line="1310" selection-start-column="6" selection-end-line="1310" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -656,26 +769,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/building_queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="408">
           <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log_in.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding>
-            <element signature="e#42#56#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build_by_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="-83">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#42#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/village_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
+          <folding>
+            <element signature="e#42#51#0" expanded="true" />
+            <element signature="e#8088#8547#0" expanded="false" />
+            <element signature="e#8568#10818#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="80" column="92" selection-start-line="0" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/builder_advanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding>
             <element signature="e#42#81#0" expanded="true" />
           </folding>

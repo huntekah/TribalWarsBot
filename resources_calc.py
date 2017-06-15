@@ -62,8 +62,8 @@ class Market:
         self.resources.sort()
 
 
-def get_all_trades():
-    driver = login()
+def get_all_trades(username, password):
+    driver = login(username, password)
     resource_speed = driver.find_element_by_xpath("//table[@class='box smallPadding']//span[@id='wood']").get_attribute(
         'title')
     wood_speed = int(re.findall('\d+', resource_speed)[0])
@@ -120,7 +120,7 @@ def get_all_trades():
 
 
 if __name__ == "__main__":
-    get_all_trades()
+    get_all_trades("MałyPenis","huntekah1")
     pass
     # drewno = Resource("drewno", DREWNO_SPEED)
     # glina = Resource("glina", GLINA_SPEED)

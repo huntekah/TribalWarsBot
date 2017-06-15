@@ -1,0 +1,13 @@
+﻿login haslo
+main_buildrow_smith 6 15 21 37 57
+main_buildrow_snob 6 16 03 16 12
+main_buildrow_stable 6 16 07 00 18
+main_buildrow_barracks 6 16 07 00 18
+main_buildrow_place 6 16 07 00 18
+main_buildrow_market 6 16 07 00 18
+main_buildrow_wood 6 16 07 00 18
+main_buildrow_stone 6 16 07 00 18
+main_buildrow_iron 6 16 07 00 18
+main_buildrow_farm 6 16 07 00 18
+main_buildrow_storage 6 16 07 00 18
+main_buildrow_wall 6 16 07 00 18

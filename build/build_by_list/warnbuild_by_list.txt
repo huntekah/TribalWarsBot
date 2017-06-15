@@ -12,9 +12,9 @@ missing module named 'java.lang' - imported by platform, xml.sax._exceptions, E:
 missing module named vms_lib - imported by platform, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named termios - imported by tty, getpass, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named grp - imported by tarfile, shutil, E:\GIT_repos\TribalWarsBot\build_by_list.py
-missing module named org - imported by copy, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named ce - imported by os, E:\GIT_repos\TribalWarsBot\build_by_list.py
+missing module named org - imported by copy, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named _dummy_threading - imported by dummy_threading, E:\GIT_repos\TribalWarsBot\build_by_list.py
 missing module named urllib2 - imported by selenium.webdriver.common.utils, selenium.webdriver.remote.remote_connection, selenium.webdriver.common.service
 missing module named StringIO - imported by selenium.webdriver.remote.webelement
