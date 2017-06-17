@@ -25,6 +25,7 @@ def builder_advanced(username, password, building):
         available = current_building.available
         if (not current_building.is_farm_needed) and (not current_building.is_storage_needed) and (
                 not current_building.available):
+            driver.close()
             alert_every_n_seconds(current_building.time, 999)
     row_name = "main_buildrow_{0}".format(building)
     driver.close()

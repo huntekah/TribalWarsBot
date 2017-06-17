@@ -24,7 +24,7 @@ def login(username, password):
     # driver = webdriver.PhantomJS("E:\GIT_repos\TribalWarsBot\phantomjs-2.1.1-windows\bin\phantomjs.exe")
     driver = webdriver.Chrome('./chromedriver/chromedriver.exe');
     driver.get("https://www.plemiona.pl/")
-
+    driver.maximize_window()
     # logging in
     driver.find_element_by_id("user").send_keys(username)
     driver.find_element_by_id("password").send_keys(password)

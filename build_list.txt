@@ -1,5 +1,2 @@
 ﻿MałyPenis huntekah1
-main_buildrow_smith 6 15 09 34 02
-main_buildrow_smith 6 15 15 50 26
-main_buildrow_snob 6 16 03 16 12
-main_buildrow_stable 6 16 07 00 18
+main_buildrow_snob 6 16 08 16 40
